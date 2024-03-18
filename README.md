@@ -1,2 +1,2 @@
 # Demo_1
-storing the vector  in index.py and index.pickle
+storing the vector  in index.faiss and index.pkl
